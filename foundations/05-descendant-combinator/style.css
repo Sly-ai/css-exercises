@@ -1,0 +1,7 @@
+.container .text{
+    background-color: rgba(55, 227, 240, 0.87);
+    color: rgba(121, 121, 121, 0.932);
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
