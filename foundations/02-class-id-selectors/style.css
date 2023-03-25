@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(241, 189, 198);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#beta{
+    color: blue;
+    font-size: 36px;
+}
+.odd .cooler{
+    font-size: 24px;
+}
+#delta{
+    background-color: rgb(83, 214, 116);
+    font-size: 24px;
+    font-weight: bold;
+}
